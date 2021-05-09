@@ -1,0 +1,23 @@
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 50px;
+}
+
+#name {
+  font-size: 30px;
+  color: blue;
+  font-weight: bold;
+  line-height: 1.8;
+}
+
+h1,
+h2,
+h3 {
+  color: blue;
+  font-weight: bold;
+}
+
+#job-titlle {
+  font-weight: bold;
+  font-size: 16px;
+}
